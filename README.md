@@ -22,3 +22,11 @@ The notebooks include various hands-on exercises covering different Pandas conce
 
 ## Purpose
 The main purpose of this repository is to document my learning journey and keep all my Pandas practice exercises organized in one place.
+
+
+## Learning Resources
+You can watch this  video to learn about Pandas:
+[Watch Pandas Tutorial](https://www.youtube.com/watch?v=KyOcFix3jbc)
+
+
+
